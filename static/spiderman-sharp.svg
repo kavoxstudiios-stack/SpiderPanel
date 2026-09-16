@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Spider-Man">
+<defs>
+ <linearGradient id="r" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ff3b30"/><stop offset="1" stop-color="#9b0000"/></linearGradient>
+ <filter id="s"><feDropShadow dx="0" dy="8" stdDeviation="10" flood-opacity=".35"/></filter>
+</defs>
+<path filter="url(#s)" d="M256 24C143 24 62 96 50 202c-8 75 20 154 76 216l130 70 130-70c56-62 84-141 76-216C450 96 369 24 256 24Z" fill="url(#r)" stroke="#090909" stroke-width="18" stroke-linejoin="round"/>
+<g fill="none" stroke="#0a0a0a" stroke-width="7" stroke-linecap="round" opacity=".95">
+ <path d="M256 34v438"/><path d="M80 118c65 58 116 86 176 86s111-28 176-86"/>
+ <path d="M58 192c74 45 133 65 198 65s124-20 198-65"/><path d="M54 272c79 22 139 31 202 31s123-9 202-31"/>
+ <path d="M72 348c71-2 128 7 184 7s113-9 184-7"/><path d="M110 420c55-25 98-36 146-36s91 11 146 36"/>
+ <path d="M118 75c37 78 83 117 138 117s101-39 138-117"/><path d="M72 154c61 33 122 49 184 49s123-16 184-49"/>
+ <path d="M100 464c56-61 108-92 156-92s100 31 156 92"/>
+</g>
+<path d="M113 177c42-18 78-20 111-8-12 53-39 91-82 112-29-28-39-63-29-104Z" fill="#fff" stroke="#0a0a0a" stroke-width="12"/>
+<path d="M399 177c-42-18-78-20-111-8 12 53 39 91 82 112 29-28 39-63 29-104Z" fill="#fff" stroke="#0a0a0a" stroke-width="12"/>
+<path d="M256 208l-22 42 22 20 22-20Z" fill="#0a0a0a"/>
+</svg>
